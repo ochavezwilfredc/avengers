@@ -1,5 +1,6 @@
 # Miembros
 
+* Nick Firy
 * Black panther
 * Black Widow
 * Capitán America
